@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "apkUrl": "https://raw.githubusercontent.com/benyalci79-design/yem-tedarik-version-control/main/yem-tedarik-PAKET4.apk",
+  "versionCode": 17,
+  "versionName": "1.0.16",
+  "apkUrl": "https://raw.githubusercontent.com/benyalci79-design/yem-tedarik-version-control/main/yem-tedarik-1.0.16.apk",
   "mandatory": true,
   "notes": "GitHub üzerinden güncelleme."
 }
