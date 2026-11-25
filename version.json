@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.18",
-  "apkUrl": "https://github.com/benyalci79-design/yem-tedarik-version-control/blob/main/yem-tedarik-1.0.18.apk",
+  "versionCode": 20,
+  "versionName": "1.0.19",
+  "apkUrl": "https://raw.githubusercontent.com/benyalci79-design/yem-tedarik-version-control/main/yem-tedarik-1.0.19.apk",
   "mandatory": true,
   "notes": ""
 }
