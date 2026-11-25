@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "apkUrl": "https://1drv.ms/u/c/73deaf20b9c36a88/IQAwdQS8RNQkS6kyvh7vl-VQAY0dvCsbKUbnBfafwHHJJXU?e=uw6dMi",
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "apkUrl": "https://raw.githubusercontent.com/benyalci79-design/yem-tedarik-version-control/main/yem-tedarik-PAKET4.apk",
   "mandatory": true,
-  "notes": "Arka planda indirme."
+  "notes": "GitHub üzerinden güncelleme."
 }
